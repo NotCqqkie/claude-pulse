@@ -1,4 +1,4 @@
-# Claude Pulse 🫀
+# Claude Pulse
 
 Keeps your Claude 5-hour usage window always active by silently pinging `claude -p "."` on a timer. Survives Mac sleep, wake, and reboots.
 
